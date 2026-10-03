@@ -1,7 +1,13 @@
 <div align="center">
 
 <a href="https://percime.com">
-  <img src="./assets/globe.png" alt="Percime Technologies — global engineering network" width="360" />
+  <img src="https://percime.com/opengraph-image" alt="Percime Technologies — Build, Hire, Scale" width="640" />
+</a>
+
+<br/>
+
+<a href="https://percime.com">
+  <img src="./assets/globe.png" alt="Percime Technologies — global engineering network" width="320" />
 </a>
 
 # Percime Technologies
