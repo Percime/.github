@@ -6,10 +6,6 @@
 
 <br/>
 
-<a href="https://percime.com">
-  <img src="./assets/globe.png" alt="Percime Technologies — global engineering network" width="320" />
-</a>
-
 # Percime Technologies
 
 ### Build · Hire · Scale — _Powering your next digital leap_
