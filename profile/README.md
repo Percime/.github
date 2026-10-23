@@ -42,9 +42,9 @@ and scale with confidence.
 
 ## 🚀 How We Work
 
-- **Build** — Custom software and platforms engineered for production from day one.
-- **Hire** — Vetted engineering talent matched to your roles and ramped up quickly.
-- **Scale** — Cloud infrastructure and managed operations that grow with you.
+- **Build**: Custom software and platforms engineered for production from day one.
+- **Hire**: Vetted engineering talent matched to your roles and ramped up quickly.
+- **Scale**: Cloud infrastructure and managed operations that grow with you.
 
 ## 📫 Get In Touch
 
