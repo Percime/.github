@@ -48,10 +48,10 @@ and scale with confidence.
 
 ## 📫 Get In Touch
 
-- 🌐 Website — [percime.com](https://percime.com)
-- ✉️ Email — [reach@percime.com](mailto:reach@percime.com)
-- 📞 Phone — +977-9801832779
-- 💼 LinkedIn — [company/percime-technologies](https://www.linkedin.com/company/percime-technologies)
+- 🌐 Website: [percime.com](https://percime.com)
+- ✉️ Email: [reach@percime.com](mailto:reach@percime.com)
+- 📞 Phone: +977-9801832779
+- 💼 LinkedIn: [company/percime-technologies](https://www.linkedin.com/company/percime-technologies)
 - 📍 Jhamsikhel, Lalitpur, Nepal
 
 ---
