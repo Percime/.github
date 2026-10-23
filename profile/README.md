@@ -8,7 +8,7 @@
 
 # Percime Technologies
 
-### Build · Hire · Scale — _Powering your next digital leap_
+### Build · Hire · Scale: _Powering your next digital leap_
 
 A cloud-native engineering firm that builds and staffs the teams that take companies
 from prototype to production-ready product.
