@@ -24,8 +24,8 @@ from prototype to production-ready product.
 
 ## 👋 Who We Are
 
-Percime Technologies handles **every layer of your digital product** — from infrastructure
-to deployment to user experience — with precision and expertise. Whether you need extra
+Percime Technologies handles **every layer of your digital product** from infrastructure
+to deployment to user experience with precision and expertise. Whether you need extra
 hands on an existing team or a product built from the ground up, we help you ship faster
 and scale with confidence.
 
